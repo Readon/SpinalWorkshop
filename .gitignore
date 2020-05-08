@@ -44,3 +44,4 @@ bin/
 simWorkspace/
 tmp/
 waves/*/*
+sim_build
